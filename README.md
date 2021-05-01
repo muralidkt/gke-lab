@@ -4,10 +4,10 @@
  * [ GCloud CLI Configured ](https://cloud.google.com/sdk/docs/install) 
 
 # Provisioning GKE Cluster
-* Option 1: Using GCloud CLI
-* Option 2: Using Terraform
+* Using GCloud CLI
+* Using Terraform
 
-## Option 1: GKE Cluster Provisiong using gcloud CLI
+## GKE Cluster Provisiong using gcloud CLI
 
 Enable compute and container APIs
 ```
@@ -52,7 +52,7 @@ gcloud container clusters delete gke-dev-cluster --zone europe-west3-a
 ````
 
 
-## Option 2 : GKE Cluster Provisioning using Terraform
+## GKE Cluster Provisioning using Terraform
 We are going to create a private cluster, you can learn more about the private cluster [here](https://cloud.google.com/kubernetes-engine/docs/how-to/private-clusters)
 
 Clone this repository
