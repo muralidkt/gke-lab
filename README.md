@@ -57,13 +57,13 @@ We are going to create a private cluster, you can learn more about the private c
 
 Clone this repository
 ````
-git clone 
+git clone https://github.com/muralidkt/gke-lab.git
 ````
 
 
 Move to the path gke/iac/terraform
 ````
-cd /gke/iac/terraform
+cd /gke-lab/iac/terraform
 ````
 
 
