@@ -1,7 +1,8 @@
 
  Prerequesites
  * [GCP Account and Project ](https://cloud.google.com/free)
- * [ GCloud CLI Configured ](https://cloud.google.com/sdk/docs/install) 
+ * [ GCloud CLI Configured ](https://cloud.google.com/sdk/docs/install)
+ * [ GCloud CLI Initialized](https://cloud.google.com/sdk/docs/initializing) 
 
 # Provisioning GKE Cluster
 * Using GCloud CLI
